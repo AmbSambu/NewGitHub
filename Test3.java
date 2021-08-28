@@ -8,6 +8,8 @@ public static void main(String args[])
   
    String s2=String.valueOf(b2);  
   
+  System.out.println("Printing New Line");
+  
  System.out.println(s1);  
  System.out.println(s2);  
   
